@@ -15,7 +15,7 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs",
+  "repositoryURL": "https://github.com/richardxu-io/macpro-mdct-hcbs",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "public",
   "homepageURL": "",
@@ -23,9 +23,9 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 13312,
+  "laborHours": 13594,
   "reuseFrequency": {
-    "forks": 3,
+    "forks": 0,
     "clones": 0
   },
   "platforms": [
@@ -52,9 +52,9 @@
   "reusedCode": [],
   "partners": [],
   "date": {
-    "created": "2024-05-02T18:31:28Z",
-    "lastModified": "2026-09-28T16:03:20Z",
-    "metadataLastUpdated": "2026-10-01T00:42:21.119Z"
+    "created": "2026-08-20T17:26:23Z",
+    "lastModified": "2026-10-26T14:25:11Z",
+    "metadataLastUpdated": "2026-11-01T03:49:05.052Z"
   },
   "tags": [
     "mdct"
